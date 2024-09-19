@@ -4,7 +4,7 @@
 Bu proje, zararlı URL'leri tespit etmek için makine öğrenmesi tekniklerinin kullanıldığı bir çalışmadır. Projede, Kaggle'dan alınan **Malicious URLs Dataset** kullanılarak gözetimli ve gözetimsiz öğrenme algoritmaları uygulanmıştır. Amaç, zararlı URL'lerin sınıflandırılması ve analizi ile bu tür URL'lerin tespitine yönelik etkili bir model geliştirmektir.
 
 ## Kullanılan Veri Seti
-Veri seti, çeşitli zararlı ve zararsız URL'leri içeren bir koleksiyondur. Veri setinin bağlantısı: [Malicious URLs Dataset]((https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset))
+Veri seti, çeşitli zararlı ve zararsız URL'leri içeren bir koleksiyondur. Veri setinin bağlantısı: https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset
 
 ## Yöntemler
 Proje kapsamında aşağıdaki yöntemler uygulanmıştır:
