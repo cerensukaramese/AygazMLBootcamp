@@ -21,7 +21,8 @@ Model performansı, aşağıdaki metriklerle değerlendirilmiştir:
 
 Ayrıca, sınıflandırma sonuçları için karışıklık matrisi (Confusion Matrix) oluşturulmuştur.
 #### Confusion matrix:
-![image](https://github.com/user-attachments/assets/88bcc6c2-b5e3-4cb0-aedb-54bf4d2ee38d)
+![image](https://github.com/user-attachments/assets/4fb50cd1-d984-4326-afe2-39430b88499e)
+
 
 ### K-means:
 
