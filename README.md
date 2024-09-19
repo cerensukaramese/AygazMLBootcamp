@@ -20,19 +20,19 @@ Model performansı, aşağıdaki metriklerle değerlendirilmiştir:
 - F1 Skoru : 0.8989708919643451
 
 Ayrıca, sınıflandırma sonuçları için karışıklık matrisi (Confusion Matrix) oluşturulmuştur.
-Confusion matrix:
+#### Confusion matrix:
 ![image](https://github.com/user-attachments/assets/88bcc6c2-b5e3-4cb0-aedb-54bf4d2ee38d)
 
 ### K-means:
 
-Kümeleme Sonuçları:
+#### Kümeleme Sonuçları:
 ![image](https://github.com/user-attachments/assets/470bcfc3-cbb8-4972-a6a4-a800492eb446)
 
-Elbow Method:
+#### Elbow Method:
 ![image](https://github.com/user-attachments/assets/ef78820d-1a19-4e97-be4b-ed385f2eaf3f)
 
-Küme Sayısı: 3, Silhouette Skoru: 0.6178922124066818
-Küme Boyutları: {0: 97617, 1: 68893, 2: 92660, 3: 97684, 4: 6831, 5: 17837, 6: 65781, 7: 79410, 8: 11029, 9: 103312}
+#### Küme Sayısı: 3, Silhouette Skoru: 0.6178922124066818
+#### Küme Boyutları: {0: 97617, 1: 68893, 2: 92660, 3: 97684, 4: 6831, 5: 17837, 6: 65781, 7: 79410, 8: 11029, 9: 103312}
 
 ## Kurulum ve Çalıştırma
 Projenin çalıştırılabilmesi için gerekli kütüphaneler:
